@@ -13,40 +13,45 @@
       },
       {
         "name": "Java",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/angular.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/html.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/github.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/css3.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/css.png"
       },
-        {
-        "name": "nodejs",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/nodejs.png"
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Intelij",
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/IntelliJ_IDEA_Icon.svg.png"
       },
       {
         "name": "VS Code",
-        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
       "Comunicação",
       "Empatia",
       "Liderança",
+      "Solução de Problemas",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"      
+      "Organização"
     ]
   },
   "languages": [
@@ -60,7 +65,7 @@
       "url": "https://github.com/donatowr/JavaScript_Resolucoes",
       "github": true
     },
-      {
+    {
       "name": "Projeto_ContaBanco_Java",
       "url": "https://github.com/donatowr/Projeto_ContaBanco_Java",
       "github": true
@@ -73,11 +78,9 @@
   ],
   "professionalExperience": [
     {
-
-     "Experiencia": "Em Busca de uma Oportunidade.",
-     "Estudante":"Em Formação Back-End Developer"
-
-    }    
-    
+      "name": "Em Busca da Primeira Oportunidade. 🙌",
+      "period": "Em Formação: Desenvolvimento de Software, Foco em Backend - iFood Cubos Academy || Formação Java Developer - Dio.me || Santander BootCamp (Fullstack Java + Angular) - Dio.Me", 
+      "description": "Certificações: Formação em Logica de Programação || HTML Web Developer || JavaScript Developer || Code Camp JavaScript || Descobrindo a Nuvem AWS || Introdução ao HTTP/HTTPS || Introdução ao Node.js "
+    }
   ]
 }
