@@ -31,7 +31,7 @@
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/css.png"
       },
-        {
+      {
         "name": "Node.js",
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/nodejs.png"
       },
@@ -51,7 +51,7 @@
       "Solução de Problemas",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"      
+      "Organização"
     ]
   },
   "languages": [
@@ -65,7 +65,7 @@
       "url": "https://github.com/donatowr/JavaScript_Resolucoes",
       "github": true
     },
-      {
+    {
       "name": "Projeto_ContaBanco_Java",
       "url": "https://github.com/donatowr/Projeto_ContaBanco_Java",
       "github": true
@@ -78,11 +78,9 @@
   ],
   "professionalExperience": [
     {
-
-     "name": "Em Busca de uma Oportunidade.",
-     "period":"Em Formação Back-End Developer"
-
-    }    
-    
+      "name": "Em Busca de uma Oportunidade.",
+      "period": "Em Formação Back-End Developer , Cubos Academy",
+      "description": "Certificado em Logica de Programação, HTML Developer, JavaScript Developer, Code Camp JavaScript, Descobrindo a nuvem AWS "
+    }
   ]
 }
