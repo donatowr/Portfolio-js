@@ -73,13 +73,11 @@
   ],
   "professionalExperience": [
     {
-     "Em Busca de uma Oportunidade"
-    },
-    {
-      
-    },
-    {
-      
-    }
+
+     "Experiencia": "Em Busca de uma Oportunidade.",
+     "Estudante":"Em Formação Back-End Developer"
+
+    }    
+    
   ]
 }
