@@ -9,31 +9,35 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/javascript.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/java.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/angular.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/angular.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/html.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/html.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/github.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/css3.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/css3.png"
       },
         {
         "name": "nodejs",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/nodejs.png"
       },
       {
         "name": "VS Code",
-        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/vscode.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
@@ -52,31 +56,30 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "JavaScript_Resolucoes",
+      "url": "https://github.com/donatowr/JavaScript_Resolucoes",
+      "github": true
+    },
+      {
+      "name": "Projeto_ContaBanco_Java",
+      "url": "https://github.com/donatowr/Projeto_ContaBanco_Java",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto_Site_Clinica",
+      "url": "https://github.com/donatowr/Projeto_Site_Clinica",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+     "Em Busca de uma Oportunidade"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      
     }
   ]
 }
