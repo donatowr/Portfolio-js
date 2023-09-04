@@ -1,50 +1,54 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Wellington Donato",
+  "photo": "https://avatars.githubusercontent.com/u/124450960?v=4",
+  "job": "Junior Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 97239-5229",
+  "email": "dev.donatello3@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/javascript.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "HTML",
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "CSS",
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/css3.png"
+      },
+        {
+        "name": "nodejs",
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "VS Code",
+        "logo": "https://github.com/donatowr/Portfolio_js/tree/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
+      "Comunicação",
       "Empatia",
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",      
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Intermediário)",
+    "Espanhol (Basico)",
   ],
   "portfolio": [
     {
