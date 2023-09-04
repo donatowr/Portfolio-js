@@ -9,35 +9,35 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/js.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/java.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/angular.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/angular.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/html.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/html.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/github.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/github.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/css3.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/css3.png"
       },
         {
         "name": "nodejs",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/nodejs.png"
       },
       {
         "name": "VS Code",
-        "logo": "https://github.com/donatowr/Portfolio-js/tree/main/data/imgs/vscode.png"
+        "logo": "https://github.com/donatowr/Portfolio-js/blob/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
