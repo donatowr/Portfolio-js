@@ -12,6 +12,10 @@
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/js.png"
       },
       {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/ts.png"
+      },
+      {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/java.png"
       },
