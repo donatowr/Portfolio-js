@@ -24,6 +24,10 @@
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/angular.png"
       },
       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/react.png"
+      },
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/donatowr/Portfolio-js/main/data/imgs/html.png"
       },
